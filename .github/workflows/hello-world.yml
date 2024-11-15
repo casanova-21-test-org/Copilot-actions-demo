@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu-earliest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Run a one-line script
+      - names: Run a one-line script
         run: echo "Hello, world!"
