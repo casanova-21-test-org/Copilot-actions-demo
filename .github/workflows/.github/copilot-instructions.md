@@ -1,1 +1,1 @@
-I want to use uppercase first letters for all of my class definitions
+I want to use lowercase first letters for all of my class definitions
