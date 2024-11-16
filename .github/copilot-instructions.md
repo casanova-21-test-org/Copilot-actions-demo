@@ -1,1 +1,0 @@
-I want to use lowercase first letters for all of my class definitions
